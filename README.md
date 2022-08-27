@@ -6,5 +6,6 @@
 
 ## 主要機材
 ルーター : Aterm WG2600HP3  
-SW : NETGEAR GS108PEv3  
+SW : NETGEAR NETGEAR M4100-26G 
+     NETGEAR GS108PEv3  
 AP : Ruckus ZoneFlex 7372 x2  
